@@ -1,0 +1,4 @@
+SQLAlchemy
+marshmallow-sqlalchemy
+marshmallow
+fastapi[standard]
